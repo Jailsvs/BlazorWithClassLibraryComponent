@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\jailson.santos\\Documents\\Projects\\Blazor\\BlazorWithClassLibraryComponent\\BlazorAppWithModalClassLibrary\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorAppWithModalClassLibrary.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorAppWithModalClassLibrary.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\jailson.santos\\Documents\\Projects\\Blazor\\BlazorWithClassLibraryComponent\\BlazorAppWithModalClassLibrary\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\jailson.santos\\Documents\\Projects\\Blazor\\BlazorWithClassLibraryComponent\\BlazorAppWithModalClassLibrary\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jailson.santos\\Documents\\Projects\\Blazor\\BlazorWithClassLibraryComponent\\BlazorAppWithModalClassLibrary\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jailson.santos\\Documents\\Projects\\Blazor\\BlazorWithClassLibraryComponent\\BlazorAppWithModalClassLibrary\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorAppWithModalClassLibrary.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorAppWithModalClassLibrary.props",
+      "PackagePath": "build\\BlazorAppWithModalClassLibrary.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorAppWithModalClassLibrary.props",
+      "PackagePath": "buildMultiTargeting\\BlazorAppWithModalClassLibrary.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorAppWithModalClassLibrary.props",
+      "PackagePath": "buildTransitive\\BlazorAppWithModalClassLibrary.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

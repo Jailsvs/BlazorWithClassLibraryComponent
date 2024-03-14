@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\jailson.santos\\Documents\\Projects\\Blazor\\BlazorWithClassLibraryComponent\\BlazorModalClassLibrary\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorModalClassLibrary.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorModalClassLibrary.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\jailson.santos\\Documents\\Projects\\Blazor\\BlazorWithClassLibraryComponent\\BlazorModalClassLibrary\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "C:\\Users\\jailson.santos\\Documents\\Projects\\Blazor\\BlazorWithClassLibraryComponent\\BlazorModalClassLibrary\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorModalClassLibrary.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorModalClassLibrary.props",
+      "PackagePath": "build\\BlazorModalClassLibrary.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorModalClassLibrary.props",
+      "PackagePath": "buildMultiTargeting\\BlazorModalClassLibrary.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorModalClassLibrary.props",
+      "PackagePath": "buildTransitive\\BlazorModalClassLibrary.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

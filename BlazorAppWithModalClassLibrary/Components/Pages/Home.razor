@@ -1,0 +1,17 @@
+﻿@page "/"
+
+<PageTitle>Home</PageTitle>
+
+<h1>Hello, world!</h1>
+
+Welcome to your new app.
+
+<Modal Title="Minha primeira caixa de diálogo modal" Show="showModal" 
+       CancelText="Cancelar" 
+       ConfirmText="Confirmar">
+    <p>Esta é minha primeira caixa de diálogo modal</p>
+</Modal>
+
+@code {
+    public bool showModal = true;
+}
